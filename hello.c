@@ -1,5 +1,5 @@
 /**
- * Author: Hudson Hill & Victoria Nelson
+ * Author: Hudson Hill & Jaiden Holbert
  * Date: 2016/11/02
  *
  * A simple hello world program in C
